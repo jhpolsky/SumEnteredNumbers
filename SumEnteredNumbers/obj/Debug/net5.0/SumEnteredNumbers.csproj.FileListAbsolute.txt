@@ -1,0 +1,16 @@
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\bin\Debug\net5.0\SumEnteredNumbers.exe
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\bin\Debug\net5.0\SumEnteredNumbers.deps.json
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\bin\Debug\net5.0\SumEnteredNumbers.runtimeconfig.json
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\bin\Debug\net5.0\SumEnteredNumbers.runtimeconfig.dev.json
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\bin\Debug\net5.0\SumEnteredNumbers.dll
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\bin\Debug\net5.0\ref\SumEnteredNumbers.dll
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\bin\Debug\net5.0\SumEnteredNumbers.pdb
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\obj\Debug\net5.0\SumEnteredNumbers.csproj.AssemblyReference.cache
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\obj\Debug\net5.0\SumEnteredNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\obj\Debug\net5.0\SumEnteredNumbers.AssemblyInfoInputs.cache
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\obj\Debug\net5.0\SumEnteredNumbers.AssemblyInfo.cs
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\obj\Debug\net5.0\SumEnteredNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\obj\Debug\net5.0\SumEnteredNumbers.dll
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\obj\Debug\net5.0\ref\SumEnteredNumbers.dll
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\obj\Debug\net5.0\SumEnteredNumbers.pdb
+C:\Users\jpolsky\source\repos\SumEnteredNumbers\SumEnteredNumbers\obj\Debug\net5.0\SumEnteredNumbers.genruntimeconfig.cache
